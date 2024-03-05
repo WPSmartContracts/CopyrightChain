@@ -19,4 +19,3 @@ Include necessary settings
 Add a default ERC-1155 smart contract on Sepolia Testnet
 Environment setup variable
 Develop a boilerplate for the new plugin
-
