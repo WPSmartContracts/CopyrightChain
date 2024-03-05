@@ -11,8 +11,14 @@ License: GPLv2 or later
 
 if( ! defined( 'ABSPATH' ) ) die;
 
+// TODO: smart contract addresses TBD
+
 if ( ! defined("CRC_SEPOLIA_SMART_CONTRACT" ) ) {
-    define("CRC_SEPOLIA_SMART_CONTRACT", "0xcA1A156BebEcF0e40E2e19248d8A1CE9da0f2ed0");
+    define("CRC_SEPOLIA_SMART_CONTRACT", "");
+}
+
+if ( ! defined("CRC_ARBITRUM_SMART_CONTRACT" ) ) {
+    define("CRC_ARBITRUM_SMART_CONTRACT", "");
 }
 
 if ( ! defined("CRC_ENVIRONMENT" ) ) {
