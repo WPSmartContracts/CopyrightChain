@@ -19,7 +19,5 @@ For any inquiries or assistance regarding the CopyrightChain WordPress Plugin, f
 - **Twitter:** [@wpsmartcontract](https://twitter.com/wpsmartcontract)
 - **Website:** [wpsmartcontracts.com](https://wpsmartcontracts.com)
 
-We are dedicated to providing timely support and ensuring a smooth copyright registration experience for all users.
-
 ## License
 This project is licensed under the GPLv2 License - see the [LICENSE](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) file for details.
